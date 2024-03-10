@@ -25,15 +25,6 @@
             {
                 "tab2": {
                     "layout": 1,
-                    "buttontext": "News",
-                    "title1": "The Terra Natura Gazette",
-                    "text1": "<TextStyle.White>29th January 2024</>\nWild dino wipe is now set for 16:30pm UK time/11:30am US Eastern. New mods added recently: Nature's Touch, Solo Farm, Klinger's Additional Structures, AA Brachiosaurus and Deinosuchus!\n<TextStyle.White>12th January 2024</>\nWe have added another Additions Ascended dino! The Ceratosaurus!\n\n<TextStyle.White>4th January 2024</>\nLarge Tek Teleporters now auto unlock at spawn purely for ease of new players getting to the Community Centre and for all players to visit the admin shop easier, as you need the engram to use them. We have intentionally altered the crafting cost to be very expensive so you will need to purchase them from the Admin shop instead. We will only sell Teleporters to players who have completed the required boss.\n\n<TextStyle.White>29th December 2023</>\nWelcome to Terra Natura's opening month! We're brand new and super happy to meet you.\n\nEven though we have put so much effort into perfecting our server over the last month there may be some things we have overlooked. If you happen to come across something that seems a bit off, we would greatly appreciate it if you let us know over on Discord so we can look into it and fix anything that's out of place. We want our players to have the best experience we can provide!\n\nWe wish you a very Happy New Year! We hope to see you around!",
-                    "imageurl": ""
-                }
-            },
-            {
-                "tab3": {
-                    "layout": 1,
                     "buttontext": "Rules",
                     "title1": "Terra Natura Rules",
                     "text1": "<TextStyle.White>REGISTRATION</>\nRegistering on Discord is not essential but works as your insurance.\n- If you choose not to register you will be playing at your own risk as admin may take action without warning, we will not waste our time chasing after people. You help us and we help you!\n- In order to register, join our Discord and locate the register channel which will explain what to do.\n- We apologise for sounding harsh but we want to enjoy the game and have time to play ourselves too!\n\n<TextStyle.White>CHARACTERS AND TRIBES</>\n- The default names Human or Humano are not allowed. (If you made this mistake please create a support ticket on Discord at your earliest convenience so an admin can change your name).\n- Create a tribe even if you are solo. (You can always join someone else later)!\n- No highly offensive/vulgar character or tribe names.\n\n<TextStyle.White>BUILDS, BASES AND TAMES</>\n- Pick up traps after use.\n- One main base per tribe per map.\n- Do not build so close to another base that you prevent them from building.\n- Be mindful of how many tames you have out and how large your base is, we will only contact you to ask you to downsize if it's causing issues for other players.\n- Keep our obelisks and community centres free from clutter such as tames, storage boxes etc.\n- Do not block access to artifact caves, high resource spawns, explorer notes or anywhere players need to go.\n- Do not excessively spam structures such as foundations or pillars.\n\n<TextStyle.White>BEHAVIOUR AND COMMON COURTESY</>\n- Do not pick players up on a flyer with intent to harm them. This will result in a ban.\n- Do not harass, stalk or be abusive towards any player.\n\n<TextStyle.White>DISCLAIMER</>\nAll of our rules at Terra Natura are subject to common sense. Using loopholes or any way to get around them will result in any punishment we see fit. Rule breaks could gain you a warning or a permanent ban both in-game and on Discord. Staff will decide what action to take depending on severity.\n\nThank you for your understanding.\n\nDiscord invite link: http://discord.gg/Z9vv88GykB",
@@ -41,16 +32,7 @@
                 }
             },
             {
-                "tab4": {
-                    "layout": 1,
-                    "buttontext": "Events",
-                    "title1": "Terra Natura Events",
-                    "text1": "<TextStyle.White>WEEKLY TAMING</>\nThis weeks tame is the Argentavis. We're looking for the highest weight! Must be level 90-105 wild (134-157 tamed). See the Weekly Taming channel on Discord for more info on how to enter. You could win some prizes!",
-                    "imageurl": ""
-                }
-            },
-            {
-                "tab5": {
+                "tab3": {
                     "layout": 1,
                     "buttontext": "Rates & Settings",
                     "title1": "Terra Natura Rates & Settings",
